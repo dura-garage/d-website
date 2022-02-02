@@ -16,3 +16,6 @@ Copy this and edit the text:
 1. [Udacity](https://www.udacity.com/)
 1. [Lynda](https://www.lynda.com/)
 1. [DataCamp](https://www.datacamp.com/)
+1. [w3school](https://www.w3school.com/)
+1. [Skillcrush](https://www.skillcrush.com/)
+1. [Udacity](https://www.udacity.com/)
