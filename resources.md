@@ -20,3 +20,5 @@ Copy this and edit the text:
 1. [Skillcrush](https://www.skillcrush.com/)
 1. [programiz](https://www.programiz.com/)
 1. [Codingame](https://www.codingame.com/)
+1. [Community Classroom](https://www.commclassroom.org/)
+2. [GeeksOfGeeks](https://www.geeksforgeeks.org/)
